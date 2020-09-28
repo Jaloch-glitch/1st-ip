@@ -1,5 +1,6 @@
 body {
 	background-color: blue;
+	color: white;
 }
 .topic {
 	text-align: center;
@@ -23,3 +24,4 @@ img {
 	float: right;
 	
 }
+
