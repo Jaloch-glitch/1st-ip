@@ -4,3 +4,23 @@ body {
 .topic {
 	text-align: center;
 }
+
+img {
+	float: left;
+}
+
+.sidebar {
+	width: 20%;
+	float: right;
+	background-color: yellow;
+}
+.test-box {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+
+}
+
+.p1 {
+	text-align: center;
+}
